@@ -1,0 +1,6 @@
+# hey
+name calories sodium alcohol cost
+#my name is Parul
+Budweiser 144 15 4.7 0.43
+Schlitz 151 19 4.9 0.43
+Lowenbrau 157 15 0.9 0.48
